@@ -17,18 +17,28 @@ DATA = os.path.join(BASE, "data")
 OUT = os.path.join(BASE, "vietnam-iptv.m3u")
 LAST_GOOD = os.path.join(DATA, "vietnam-iptv.last-good.m3u")
 
-# Map group-title chuẩn hóa
+# Map group-title chuẩn hóa — TV toàn cầu (iptv-org:music) bị CẮT theo chỉ đạo Sếp 4/11
+CUT_SOURCES = {"iptv-org:music"}  # TV nhạc toàn cầu — loại bỏ
+
 GROUP_MAP = [
     (r"vietnam|việt|viet|vpop|bolero|remix", "Vietnam - Music"),
     (r"china|chinese|华语|c-pop|mandopop|douyin|cpop|中文", "China - Music"),
-    (r"ai", "AI Music"),
     (r"tiktok|douyin|抖音", "TikTok - Trending"),
     (r"news|talk|sports", "Vietnam - Radio"),
     (r"tv|\btv\b", "Vietnam - TV"),
 ]
 
-def map_group(raw):
+def map_group(raw, source, name=""):
+    if source in CUT_SOURCES:
+        return None  # cắt bỏ
+    if source == "ai-lead":
+        return "AI Music"
+    if source == "iptv-org:vn-tv":
+        return "Vietnam - TV"  # toàn bộ nguồn này là TV Việt Nam
     if not raw:
+        # nhận diện TV VN qua tên kênh (SCTV, HTV, ... TV) từ nguồn VN
+        if re.search(r"\bTV\b|TV\s*\d|SCTV|HTV|VTV", name, re.I) and "viti" in source:
+            return "Vietnam - TV"
         return "International"
     r = raw.lower()
     for pat, label in GROUP_MAP:
@@ -60,7 +70,9 @@ def main():
     # Gom danh mục
     groups = {}
     for s in up:
-        g = map_group(s.get("group", ""))
+        g = map_group(s.get("group", ""), s.get("source", ""), s.get("name", ""))
+        if g is None:
+            continue  # bị cắt
         groups.setdefault(g, []).append(s)
 
     lines = ["#EXTM3U"]
