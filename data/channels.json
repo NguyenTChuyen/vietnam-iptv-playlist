@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T18:24:54+0000",
+  "updated": "2026-11-03T18:48:06+0000",
   "groups": {
     "AI Music": [
       {
@@ -9,6 +9,11 @@
       }
     ],
     "China - Music": [
+      {
+        "name": "AisaFM亚洲粤语台",
+        "url": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts",
+        "source": "alondrilich:cn"
+      },
       {
         "name": "Anison动漫音乐台",
         "url": "http://pool.anison.fm:9000/AniSonFM(320)?",
@@ -25,13 +30,13 @@
         "source": "alondrilich:cn"
       },
       {
-        "name": "BRTV北京新闻广播",
-        "url": "https://brtv-radiolive.rbc.cn/alive/fm945.m3u8",
+        "name": "BTV生活伴音",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio",
         "source": "alondrilich:cn"
       },
       {
-        "name": "BRTV北京音乐广播",
-        "url": "https://brtv-radiolive.rbc.cn/alive/fm974.m3u8",
+        "name": "BTV财经伴音",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio",
         "source": "alondrilich:cn"
       },
       {
@@ -161,11 +166,6 @@
       },
       {
         "name": "CNR-15 中国交通广播",
-        "url": "https://ngcdn002.cnr.cn/live/gsgljtgb/index.m3u8",
-        "source": "alondrilich:cn"
-      },
-      {
-        "name": "CNR-15 中国交通广播",
         "url": "https://satellitepull.cnr.cn/live/wxzgjtgb/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908170190549&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3",
         "source": "alondrilich:cn"
       },
@@ -290,6 +290,11 @@
         "source": "alondrilich:cn"
       },
       {
+        "name": "北京BTV新闻伴音",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio",
+        "source": "alondrilich:cn"
+      },
+      {
         "name": "北京卫视伴音",
         "url": "https://piccpndali.v.myalicdn.com/audio/btv1_2.m3u8",
         "source": "alondrilich:cn"
@@ -362,11 +367,6 @@
       {
         "name": "天籁之音 - Hi-Fi Radio",
         "url": "http://play-radio-stream3.hndt.com/now/JxkyN5mR/chunklist.m3u8",
-        "source": "alondrilich:cn"
-      },
-      {
-        "name": "天籁之音 - 国风",
-        "url": "http://play-radio-stream3.hndt.com/now/UzPxbRaT/chunklist.m3u8",
         "source": "alondrilich:cn"
       },
       {
@@ -447,31 +447,6 @@
       {
         "name": "民谣·蓝调",
         "url": "http://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8",
-        "source": "alondrilich:cn"
-      },
-      {
-        "name": "江苏交通广播网",
-        "url": "http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8?",
-        "source": "alondrilich:cn"
-      },
-      {
-        "name": "江苏故事广播",
-        "url": "http://lzlive.vojs.cn/rWjyus9/92/live.m3u8?",
-        "source": "alondrilich:cn"
-      },
-      {
-        "name": "江苏新闻广播",
-        "url": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8?",
-        "source": "alondrilich:cn"
-      },
-      {
-        "name": "江苏新闻综合广播",
-        "url": "http://lzlive.vojs.cn/rTyLc36/92/live.m3u8",
-        "source": "alondrilich:cn"
-      },
-      {
-        "name": "江苏经典流行音乐广播",
-        "url": "http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?",
         "source": "alondrilich:cn"
       },
       {
@@ -575,11 +550,6 @@
         "source": "alondrilich:cn"
       },
       {
-        "name": "第一财经（一财官网线路）",
-        "url": "https://a1live.livecdn.yicai.com/live/yicai_radio.m3u8",
-        "source": "alondrilich:cn"
-      },
-      {
         "name": "经典105·山东经典音乐广播",
         "url": "http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8",
         "source": "alondrilich:cn"
@@ -600,8 +570,18 @@
         "source": "alondrilich:cn"
       },
       {
+        "name": "重庆之声",
+        "url": "http://ls.qingting.fm/live/1498.m3u8",
+        "source": "alondrilich:cn"
+      },
+      {
         "name": "重庆交通广播",
         "url": "http://ls.qingting.fm/live/1500.m3u8",
+        "source": "alondrilich:cn"
+      },
+      {
+        "name": "重庆私家车广播",
+        "url": "http://ls.qingting.fm/live/1502.m3u8",
         "source": "alondrilich:cn"
       },
       {
@@ -652,11 +632,6 @@
       {
         "name": "Translation of the Quran in Chinese",
         "url": "https://serverkw.quran-uni.com:8138/;",
-        "source": "radio-browser:chinese"
-      },
-      {
-        "name": "德兴之声国际广播 DeXing International",
-        "url": "http://player4.juyun.tv/camera/158562106.m3u8?",
         "source": "radio-browser:chinese"
       },
       {
@@ -809,6 +784,11 @@
       {
         "name": "THP TRAFFIC SERVICE FM102.2",
         "url": "https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8",
+        "source": "changegod:viti"
+      },
+      {
+        "name": "THVL RADIO VINH LONG (FM90.2MHz, 92.7 and 97.9 MHz)",
+        "url": "https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8",
         "source": "changegod:viti"
       },
       {
@@ -1019,6 +999,11 @@
         "source": "changegod:viti"
       },
       {
+        "name": "RT Today",
+        "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+        "source": "changegod:viti"
+      },
+      {
         "name": "Rakuten TV",
         "url": "https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8",
         "source": "changegod:viti"
@@ -1086,11 +1071,6 @@
       {
         "name": "TRT Spor",
         "url": "https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8",
-        "source": "changegod:viti"
-      },
-      {
-        "name": "TRT2",
-        "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
         "source": "changegod:viti"
       },
       {
@@ -1214,6 +1194,11 @@
         "source": "iptv-org:vn-tv"
       },
       {
+        "name": "SCTV11 (720p)",
+        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8",
+        "source": "iptv-org:vn-tv"
+      },
+      {
         "name": "SCTV12 (720p)",
         "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8",
         "source": "iptv-org:vn-tv"
@@ -1226,11 +1211,6 @@
       {
         "name": "SCTV14 (720p)",
         "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8",
-        "source": "iptv-org:vn-tv"
-      },
-      {
-        "name": "SCTV16 (720p)",
-        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8",
         "source": "iptv-org:vn-tv"
       },
       {
@@ -1256,11 +1236,6 @@
       {
         "name": "SCTV3 (720p)",
         "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8",
-        "source": "iptv-org:vn-tv"
-      },
-      {
-        "name": "SCTV4 (720p)",
-        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8",
         "source": "iptv-org:vn-tv"
       },
       {
@@ -1306,6 +1281,11 @@
       {
         "name": "VBS TV (480p) [Not 24/7]",
         "url": "https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8",
+        "source": "iptv-org:vn-tv"
+      },
+      {
+        "name": "Vietnam Today (1080p)",
+        "url": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
         "source": "iptv-org:vn-tv"
       }
     ],

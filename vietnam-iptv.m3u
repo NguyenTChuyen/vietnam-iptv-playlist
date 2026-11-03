@@ -3,16 +3,18 @@
 https://mugenradio.com/hls/live.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",_Wawa Radio 101.2 FM
 https://xn--tmz.xn--6frz82g/streams
+#EXTINF:-1 radio="true" group-title="China - Music",AisaFM亚洲粤语台
+https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
 #EXTINF:-1 radio="true" group-title="China - Music",Anison动漫音乐台
 http://pool.anison.fm:9000/AniSonFM(320)?
 #EXTINF:-1 radio="true" group-title="China - Music",AsiaFM亚洲音乐台(新)
 https://live.xmcdn.com/live/764/64.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",BBN 中文
 https://streams.radiomast.io/ce298b32-8776-4192-9900-092f44b63e7f
-#EXTINF:-1 radio="true" group-title="China - Music",BRTV北京新闻广播
-https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
-#EXTINF:-1 radio="true" group-title="China - Music",BRTV北京音乐广播
-https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
+#EXTINF:-1 radio="true" group-title="China - Music",BTV生活伴音
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1 radio="true" group-title="China - Music",BTV财经伴音
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 radio="true" group-title="China - Music",C-Pop (Chinese Popular Music)
 http://213.141.131.10:8000/cpop
 #EXTINF:-1 radio="true" group-title="China - Music",CCTV-10科教伴音
@@ -65,8 +67,6 @@ http://zbbf2.ahbztv.com/live/4f3.m3u8
 https://satellitepull.cnr.cn/live/wxzgzs/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908087306150&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
 #EXTINF:-1 radio="true" group-title="China - Music",CNR-10 老年之声
 http://satellitepull.cnr.cn/live/wxlnzs/playlist.m3u8?wsSession=b560e2b8d5c24aef0be2a5c7-174709253203252&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
-#EXTINF:-1 radio="true" group-title="China - Music",CNR-15 中国交通广播
-https://ngcdn002.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",CNR-15 中国交通广播
 https://satellitepull.cnr.cn/live/wxzgjtgb/playlist.m3u8?wsSession=28e11e3debee46427a9d53dc-174908170190549&wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
 #EXTINF:-1 radio="true" group-title="China - Music",CNR-2 经济之声
@@ -127,6 +127,8 @@ https://media.xyzcdn.net/nnkLT7Qx1QNOjB362KOst5vwjYzl.mp3
 http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",凤凰卫视资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 radio="true" group-title="China - Music",北京BTV新闻伴音
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
 #EXTINF:-1 radio="true" group-title="China - Music",北京卫视伴音
 https://piccpndali.v.myalicdn.com/audio/btv1_2.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",华藏净宗弘化网净空老法师
@@ -157,8 +159,6 @@ http://202.39.43.67:1935/live/RA000024/chunklist.m3u8
 https://piccpndali.v.myalicdn.com/audio/tianjin_2.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",天籁之音 - Hi-Fi Radio
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/chunklist.m3u8
-#EXTINF:-1 radio="true" group-title="China - Music",天籁之音 - 国风
-http://play-radio-stream3.hndt.com/now/UzPxbRaT/chunklist.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",安徽卫视伴音
 https://piccpndali.v.myalicdn.com/audio/anhui_2.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",山东交通广播
@@ -167,8 +167,6 @@ http://audiolive302.iqilu.com/sdradioJiaotong/sdradio05/playlist.m3u8
 https://piccpndali.v.myalicdn.com/audio/shandong_2.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",山东音乐广播
 http://audiolive302.iqilu.com/sdradioYinyue/sdradio07/playlist.m3u8
-#EXTINF:-1 radio="true" group-title="China - Music",德兴之声国际广播 DeXing International
-http://player4.juyun.tv/camera/158562106.m3u8?
 #EXTINF:-1 radio="true" group-title="China - Music",心灵音乐馆
 http://stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",怀旧音乐广播
@@ -195,16 +193,6 @@ http://ls.qingting.fm/live/1297.m3u8
 http://stream3.hndt.com/now/XWfN89gh/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",民谣·蓝调
 http://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8
-#EXTINF:-1 radio="true" group-title="China - Music",江苏交通广播网
-http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8?
-#EXTINF:-1 radio="true" group-title="China - Music",江苏故事广播
-http://lzlive.vojs.cn/rWjyus9/92/live.m3u8?
-#EXTINF:-1 radio="true" group-title="China - Music",江苏新闻广播
-http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8?
-#EXTINF:-1 radio="true" group-title="China - Music",江苏新闻综合广播
-http://lzlive.vojs.cn/rTyLc36/92/live.m3u8
-#EXTINF:-1 radio="true" group-title="China - Music",江苏经典流行音乐广播
-http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8?
 #EXTINF:-1 radio="true" group-title="China - Music",江苏音乐广播
 http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8?
 #EXTINF:-1 radio="true" group-title="China - Music",河北交通广播
@@ -245,8 +233,6 @@ https://piccpndali.v.myalicdn.com/audio/hubei_2.m3u8
 http://sk.cri.cn/905.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",第一财经电视伴音
 http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
-#EXTINF:-1 radio="true" group-title="China - Music",第一财经（一财官网线路）
-https://a1live.livecdn.yicai.com/live/yicai_radio.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",经典105·山东经典音乐广播
 http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",经济之声
@@ -259,8 +245,12 @@ http://kxparadio.serverroom.us:5852/stream.mp3
 https://api.xmgspace.me/api/vom-latest/
 #EXTINF:-1 radio="true" group-title="China - Music",辽宁卫视伴音
 https://piccpndali.v.myalicdn.com/audio/liaoning_2.m3u8
+#EXTINF:-1 radio="true" group-title="China - Music",重庆之声
+http://ls.qingting.fm/live/1498.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",重庆交通广播
 http://ls.qingting.fm/live/1500.m3u8
+#EXTINF:-1 radio="true" group-title="China - Music",重庆私家车广播
+http://ls.qingting.fm/live/1502.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",重庆音乐广播
 http://ls.qingting.fm/live/647.m3u8
 #EXTINF:-1 radio="true" group-title="China - Music",金典FM
@@ -313,6 +303,8 @@ https://radio.thainguyentv.vn/hls/livestream.m3u8
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - Music",THP TRAFFIC SERVICE FM102.2
 https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Vietnam - Music",THVL RADIO VINH LONG (FM90.2MHz, 92.7 and 97.9 MHz)
+https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - Music",TNT Atlanta Radio
 https://cast4.servcast.net/proxy/longpham2/stream
 #EXTINF:-1 radio="true" group-title="Vietnam - Music",VIET RADIO 1560
@@ -445,14 +437,16 @@ https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",Reuters
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
+#EXTINF:-1 radio="true" group-title="Vietnam - TV",RT Today
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV11 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV12 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV13 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV14 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
-#EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV16 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV18 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV19 (720p)
@@ -463,8 +457,6 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV3 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
-#EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV4 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV6 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",SCTV7 (720p)
@@ -505,8 +497,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",TRT Spor
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 radio="true" group-title="Vietnam - TV",TRT2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",TTV
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",TV Chosun HD
@@ -527,6 +517,8 @@ https://amg00111-hearstmediaprod-xploreintlnl-samsungnl-rx86v.amagi.tv/ts-eu-w1-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",Viasat Nature
 https://careco-outdoor-action-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="Vietnam - TV",Vietnam Today (1080p)
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",VOA Asia
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8
 #EXTINF:-1 radio="true" group-title="Vietnam - TV",Yahoo Finance
