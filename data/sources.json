@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T18:32:19+0000",
+  "updated": "2026-11-08T11:04:35+0000",
   "candidates": [
     {
       "url": "https://mugenradio.com/hls/live.m3u8",
@@ -5117,7 +5117,7 @@
     {
       "url": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8",
       "canonical": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8",
-      "name": "3ABN Praise Him Music Network",
+      "name": "3ABN Praise Him Music Network (720p)",
       "group": "Music;Religious",
       "radio": "true",
       "source": "iptv-org:music"
@@ -5181,7 +5181,7 @@
     {
       "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
       "canonical": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
-      "name": "70-80 TV",
+      "name": "70-80 TV (1080p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -5277,8 +5277,16 @@
     {
       "url": "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8",
       "canonical": "https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8",
-      "name": "ACE Country Radio KPVM-LD",
+      "name": "ACE Country Radio KPVM-LD (480p)",
       "group": "Music",
+      "radio": "true",
+      "source": "iptv-org:music"
+    },
+    {
+      "url": "https://live.acwugtv.com/hls/stream.m3u8",
+      "canonical": "https://live.acwugtv.com/hls/stream.m3u8",
+      "name": "ACW UG TV (480p)",
+      "group": "General;Music",
       "radio": "true",
       "source": "iptv-org:music"
     },
@@ -5293,7 +5301,7 @@
     {
       "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
       "canonical": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
-      "name": "AFN TV",
+      "name": "AFN TV (720p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -5515,8 +5523,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
-      "canonical": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
+      "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8",
+      "canonical": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8",
       "name": "B4U Music (1080p)",
       "group": "Music",
       "radio": "true",
@@ -5549,22 +5557,22 @@
     {
       "url": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
       "canonical": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
-      "name": "BPX TV Radio",
+      "name": "BPX TV Radio (720p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
     },
     {
-      "url": "http://stream.mcquack.net/318/index.m3u8",
-      "canonical": "http://stream.mcquack.net/318/index.m3u8",
+      "url": "http://178.134.1.158:8081/BRIDGE/index.m3u8",
+      "canonical": "http://178.134.1.158:8081/BRIDGE/index.m3u8",
       "name": "BRIDGE (576p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
     },
     {
-      "url": "http://stream.mcquack.net/272/index.m3u8",
-      "canonical": "http://stream.mcquack.net/272/index.m3u8",
+      "url": "http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8",
+      "canonical": "http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8",
       "name": "BRIDGE Classic (576p)",
       "group": "Classic;Music",
       "radio": "true",
@@ -5587,8 +5595,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://stream.mcquack.net/320/index.m3u8",
-      "canonical": "http://stream.mcquack.net/320/index.m3u8",
+      "url": "http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8",
+      "canonical": "http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8",
       "name": "BRIDGE Hits (576p)",
       "group": "Music",
       "radio": "true",
@@ -5963,9 +5971,9 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8",
-      "canonical": "https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8",
-      "name": "Corazon TV",
+      "url": "http://181.79.86.130:8000/play/a05d/index.m3u8",
+      "canonical": "http://181.79.86.130:8000/play/a05d/index.m3u8",
+      "name": "Corazon TV (720p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -6195,8 +6203,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
-      "canonical": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
+      "url": "http://92.114.85.87:8014/play/a007/index.m3u8",
+      "canonical": "http://92.114.85.87:8014/play/a007/index.m3u8",
       "name": "Disco Polo Music (1080p)",
       "group": "Music",
       "radio": "true",
@@ -6307,8 +6315,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
-      "canonical": "https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8",
+      "url": "http://66.102.126.10:8000/play/a01i/index.m3u8",
+      "canonical": "http://66.102.126.10:8000/play/a01i/index.m3u8",
       "name": "Epic Music (576p)",
       "group": "Music",
       "radio": "true",
@@ -6467,9 +6475,9 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8",
-      "canonical": "https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8",
-      "name": "Fame95 FM (480p)",
+      "url": "https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+      "canonical": "https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+      "name": "Fame95 FM (614p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -6755,9 +6763,9 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
-      "canonical": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
-      "name": "Hindi Hits (720p)",
+      "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
+      "canonical": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
+      "name": "Hindi Hits (1080p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -6875,8 +6883,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8",
-      "canonical": "https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8",
+      "canonical": "https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8",
       "name": "Insync (576p)",
       "group": "Music",
       "radio": "true",
@@ -7347,6 +7355,14 @@
       "source": "iptv-org:music"
     },
     {
+      "url": "http://dtv.vol.net.ua/M1-HD/index.m3u8",
+      "canonical": "http://dtv.vol.net.ua/M1-HD/index.m3u8",
+      "name": "M1 (Ukraine) (1080p)",
+      "group": "Music",
+      "radio": "true",
+      "source": "iptv-org:music"
+    },
+    {
       "url": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8",
       "canonical": "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8",
       "name": "MBC America (1080p)",
@@ -7379,9 +7395,17 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://188.115.15.121:8000/play/a014",
-      "canonical": "http://188.115.15.121:8000/play/a014",
-      "name": "MCM Pop (580p)",
+      "url": "http://176.65.153.78:8201/play/a070/index.m3u8",
+      "canonical": "http://176.65.153.78:8201/play/a070/index.m3u8",
+      "name": "MCM Pop",
+      "group": "Music",
+      "radio": "true",
+      "source": "iptv-org:music"
+    },
+    {
+      "url": "http://185.228.163.146:8000/play/a00g/index.m3u8",
+      "canonical": "http://185.228.163.146:8000/play/a00g/index.m3u8",
+      "name": "MCM Top (France)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -7389,7 +7413,7 @@
     {
       "url": "http://46.32.176.50/mcmtop/index.m3u8",
       "canonical": "http://46.32.176.50/mcmtop/index.m3u8",
-      "name": "MCM Top (576p)",
+      "name": "MCM Top (Russia) (576p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -7723,8 +7747,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://181.78.12.119:16123/play/ch54/index.m3u8",
-      "canonical": "http://181.78.12.119:16123/play/ch54/index.m3u8",
+      "url": "http://168.228.44.241:9999/play/a054/index.m3u8",
+      "canonical": "http://168.228.44.241:9999/play/a054/index.m3u8",
       "name": "Mi Musica Romantica (1080p)",
       "group": "Music",
       "radio": "true",
@@ -7851,14 +7875,6 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8",
-      "canonical": "https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8",
-      "name": "Music India (576p)",
-      "group": "Music",
-      "radio": "true",
-      "source": "iptv-org:music"
-    },
-    {
       "url": "https://mic.siar.us/mic/live/mic.m3u8",
       "canonical": "https://mic.siar.us/mic/live/mic.m3u8",
       "name": "Music Information Channel (720p)",
@@ -7875,8 +7891,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
-      "canonical": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
+      "url": "http://190.128.214.97:64333/play/a06o/index.m3u8",
+      "canonical": "http://190.128.214.97:64333/play/a06o/index.m3u8",
       "name": "MusicTop (1080p)",
       "group": "Music",
       "radio": "true",
@@ -7899,8 +7915,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://46.32.176.50/muztv/index.m3u8",
-      "canonical": "http://46.32.176.50/muztv/index.m3u8",
+      "url": "http://31.148.5.241/kanal_20/index.m3u8",
+      "canonical": "http://31.148.5.241/kanal_20/index.m3u8",
       "name": "Muz-TV (576p)",
       "group": "Music",
       "radio": "true",
@@ -7947,8 +7963,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://stream.mcquack.net/153/index.m3u8",
-      "canonical": "http://stream.mcquack.net/153/index.m3u8",
+      "url": "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8",
+      "canonical": "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8",
       "name": "Muzyka Pervogo (576p)",
       "group": "Music",
       "radio": "true",
@@ -8563,14 +8579,6 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8",
-      "canonical": "https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8",
-      "name": "Public Music (576p)",
-      "group": "Music",
-      "radio": "true",
-      "source": "iptv-org:music"
-    },
-    {
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
       "canonical": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
       "name": "Punjabi Beats HD (720p)",
@@ -8579,8 +8587,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
-      "canonical": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+      "url": "https://legitpro.co.in/punjabihits/punjabihits/index.m3u8",
+      "canonical": "https://legitpro.co.in/punjabihits/punjabihits/index.m3u8",
       "name": "Punjabi Hits (1080p)",
       "group": "Music",
       "radio": "true",
@@ -9339,8 +9347,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://186.148.196.100:8000/play/a02h",
-      "canonical": "http://186.148.196.100:8000/play/a02h",
+      "url": "http://38.134.250.110:8000/play/a01p/index.m3u8",
+      "canonical": "http://38.134.250.110:8000/play/a01p/index.m3u8",
       "name": "Rumba TV (1080p)",
       "group": "Music",
       "radio": "true",
@@ -9419,14 +9427,6 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
-      "canonical": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
-      "name": "Sangeet Bhojpuri (576p)",
-      "group": "Music",
-      "radio": "true",
-      "source": "iptv-org:music"
-    },
-    {
       "url": "https://cdn.pishow.tv/ott/live/1229/master.m3u8",
       "canonical": "https://cdn.pishow.tv/ott/live/1229/master.m3u8",
       "name": "Sangeet Marathi (720p)",
@@ -9445,14 +9445,14 @@
     {
       "url": "https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8",
       "canonical": "https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8",
-      "name": "Sensacion Costa",
+      "name": "Sensacion Costa (1080p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
     },
     {
-      "url": "http://catchup.videoline.ru/shanson/index.m3u8",
-      "canonical": "http://catchup.videoline.ru/shanson/index.m3u8",
+      "url": "http://46.53.200.153:7777/play/Shanson_TV/index.m3u8",
+      "canonical": "http://46.53.200.153:7777/play/Shanson_TV/index.m3u8",
       "name": "Shanson TV SD (576p)",
       "group": "Music",
       "radio": "true",
@@ -9565,7 +9565,7 @@
     {
       "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
       "canonical": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
-      "name": "Star 101 FM [Not 24/7]",
+      "name": "Star 101 FM (720p) [Not 24/7]",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -9973,7 +9973,7 @@
     {
       "url": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
       "canonical": "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8",
-      "name": "TVR Folclor",
+      "name": "TVR Folclor (1440p)",
       "group": "General;Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -10003,8 +10003,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8",
-      "canonical": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8",
+      "url": "https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8",
+      "canonical": "https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8",
       "name": "Tabbar Hits (1080p)",
       "group": "Music",
       "radio": "true",
@@ -10059,8 +10059,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://190.61.47.54:8000/play/a029/index.m3u8",
-      "canonical": "http://190.61.47.54:8000/play/a029/index.m3u8",
+      "url": "http://186.148.196.100:8000/play/a01s",
+      "canonical": "http://186.148.196.100:8000/play/a01s",
       "name": "TeleHit (1080p)",
       "group": "Music",
       "radio": "true",
@@ -10133,7 +10133,7 @@
     {
       "url": "https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8",
       "canonical": "https://5f700d5b2c46f.streamlock.net/thecabinn/thecabinn/playlist.m3u8",
-      "name": "The Cabbin FM",
+      "name": "The Cabbin FM (1080p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -10515,8 +10515,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8",
-      "canonical": "https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8",
+      "url": "https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8",
+      "canonical": "https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8",
       "name": "Tropical Moon Urban TV [Not 24/7]",
       "group": "Music",
       "radio": "true",
@@ -10582,14 +10582,6 @@
       "url": "http://186.148.196.100:8000/play/a02z",
       "canonical": "http://186.148.196.100:8000/play/a02z",
       "name": "V Classic TV (1080p)",
-      "group": "Music",
-      "radio": "true",
-      "source": "iptv-org:music"
-    },
-    {
-      "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-      "canonical": "https://abr.de1se01.v2beat.live/playlist.m3u8",
-      "name": "V2BEAT TV (720p) [Not 24/7]",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -10733,7 +10725,7 @@
     {
       "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
       "canonical": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
-      "name": "Video Mix TV",
+      "name": "Video Mix TV (1080p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -10837,7 +10829,7 @@
     {
       "url": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8",
       "canonical": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8",
-      "name": "X 102.7 FM",
+      "name": "X 102.7 FM (720p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -11051,14 +11043,6 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://stream.mcquack.net/218/index.m3u8",
-      "canonical": "http://stream.mcquack.net/218/index.m3u8",
-      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",M1 (Ukraine) (1080p)",
-      "group": "Music",
-      "radio": "true",
-      "source": "iptv-org:music"
-    },
-    {
       "url": "http://stream.mcquack.net/330/index.m3u8",
       "canonical": "http://stream.mcquack.net/330/index.m3u8",
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",M2 (Ukraine) (1080p)",
@@ -11078,6 +11062,30 @@
       "url": "http://88.212.7.14/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
       "canonical": "http://88.212.7.14/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",Slager TV",
+      "group": "Music",
+      "radio": "true",
+      "source": "iptv-org:music"
+    },
+    {
+      "url": "https://fta.ektv.in/live/158/master.m3u8",
+      "canonical": "https://fta.ektv.in/live/158/master.m3u8",
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Music\",Music India (576p)",
+      "group": "Music",
+      "radio": "true",
+      "source": "iptv-org:music"
+    },
+    {
+      "url": "https://fta.ektv.in/live/240/master.m3u8",
+      "canonical": "https://fta.ektv.in/live/240/master.m3u8",
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Music\",Public Music (576p)",
+      "group": "Music",
+      "radio": "true",
+      "source": "iptv-org:music"
+    },
+    {
+      "url": "https://fta.ektv.in/live/349/master.m3u8",
+      "canonical": "https://fta.ektv.in/live/349/master.m3u8",
+      "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Music\",Sangeet Bhojpuri (576p)",
       "group": "Music",
       "radio": "true",
       "source": "iptv-org:music"
@@ -11123,8 +11131,8 @@
       "source": "iptv-org:music"
     },
     {
-      "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57",
-      "canonical": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57",
+      "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN",
+      "canonical": "http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN",
       "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Music\",Music Box Polska Ukraine",
       "group": "Music",
       "radio": "true",
@@ -11187,8 +11195,8 @@
       "source": "iptv-org:vn-tv"
     },
     {
-      "url": "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8",
-      "canonical": "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=20",
+      "canonical": "https://freem3u.xyz/api/live/play.m3u8?vid=20",
       "name": "An Ninh TV HD (1080p)",
       "group": "Undefined",
       "radio": "true",
@@ -11267,7 +11275,7 @@
       "source": "iptv-org:vn-tv"
     },
     {
-      "url": "https://vmttv.dpdns.org/tv360/?id=davinci-hd",
+      "url": "https://vmttv.dpdns.org/tv360?id=davinci-hd",
       "canonical": "https://vmttv.dpdns.org/tv360?id=davinci-hd",
       "name": "Da Vinci Asia Vietnam (1080p)",
       "group": "Education",
@@ -11323,7 +11331,7 @@
       "source": "iptv-org:vn-tv"
     },
     {
-      "url": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao",
+      "url": "https://vmttv.dpdns.org/tv360?id=htv-the-thao",
       "canonical": "https://vmttv.dpdns.org/tv360?id=htv-the-thao",
       "name": "HTV Sports (1080i)",
       "group": "Sports",
@@ -11539,7 +11547,7 @@
       "source": "iptv-org:vn-tv"
     },
     {
-      "url": "https://vmttv.dpdns.org/tv360/?id=175",
+      "url": "https://vmttv.dpdns.org/tv360?id=175",
       "canonical": "https://vmttv.dpdns.org/tv360?id=175",
       "name": "ON Phim Viet (1080p)",
       "group": "Series",
@@ -11755,14 +11763,6 @@
       "source": "iptv-org:vn-tv"
     },
     {
-      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
-      "canonical": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
-      "name": "Tra Vinh TV (1080p)",
-      "group": "Culture;Entertainment;Music;News",
-      "radio": "true",
-      "source": "iptv-org:vn-tv"
-    },
-    {
       "url": "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8",
       "canonical": "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8",
       "name": "Uniquely Thai (720p)",
@@ -11795,8 +11795,8 @@
       "source": "iptv-org:vn-tv"
     },
     {
-      "url": "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8",
-      "canonical": "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/index.m3u8",
+      "url": "http://125hvt.ddns.net:21585/vtv2/playlist.m3u8",
+      "canonical": "http://125hvt.ddns.net:21585/vtv2/playlist.m3u8",
       "name": "VTV2 HD (1080p)",
       "group": "Undefined",
       "radio": "true",
@@ -11829,7 +11829,7 @@
     {
       "url": "https://dethich.pw/vtv5tnb/index.m3u8",
       "canonical": "https://dethich.pw/vtv5tnb/index.m3u8",
-      "name": "VTV5 Tay Nam Bo HD",
+      "name": "VTV5 Tay Nam Bo HD (1080p)",
       "group": "Undefined",
       "radio": "true",
       "source": "iptv-org:vn-tv"
@@ -11837,7 +11837,7 @@
     {
       "url": "http://dethich.pw/vtv5tn/index.m3u8",
       "canonical": "http://dethich.pw/vtv5tn/index.m3u8",
-      "name": "VTV5 Tay Nguyen HD",
+      "name": "VTV5 Tay Nguyen HD (1080p)",
       "group": "Undefined",
       "radio": "true",
       "source": "iptv-org:vn-tv"
@@ -11911,6 +11911,14 @@
       "canonical": "https://dethich.pw/thvl4/index.m3u8",
       "name": "Vinh Long TV 4 (720p)",
       "group": "Culture;Entertainment;Sports;Travel",
+      "radio": "true",
+      "source": "iptv-org:vn-tv"
+    },
+    {
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
+      "canonical": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
+      "name": "Vinh Long TV 5 (1080p)",
+      "group": "Culture;Entertainment;Music;News",
       "radio": "true",
       "source": "iptv-org:vn-tv"
     },
@@ -12011,15 +12019,6 @@
       "radio": "true",
       "source": "radio-browser:chinese",
       "tags": "c-pop,cantonese,chinese pop,cpop,hong kong music,j-pop,japanese music,jpop,k-pop,korean music,kpop,multicultural,pop music,taiwanese pop"
-    },
-    {
-      "url": "https://ytcast.radio.cn/62/radios/20498/index_20498.m3u8?type=1&key=4b0a8a593739a93de62309d44f5106cc&time=6ae7fa08",
-      "canonical": "https://ytcast.radio.cn/62/radios/20498/index_20498.m3u8?type=1&key=4b0a8a593739a93de62309d44f5106cc&time=6ae7fa08",
-      "name": "SZFY971深圳飞扬971",
-      "group": "chinese",
-      "radio": "true",
-      "source": "radio-browser:chinese",
-      "tags": "chinese music,guangzhou info"
     },
     {
       "url": "https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8",

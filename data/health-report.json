@@ -1,12 +1,13 @@
 {
-  "updated": "2026-11-03T18:48:06+0000",
+  "updated": "2026-11-08T11:20:37+0000",
   "total": 1520,
-  "up": 761,
-  "down": 759,
+  "up": 794,
+  "down": 726,
   "down_stations": [
     "500首华语经典",
     "50首经典古典音乐",
     "90.7mixfm",
+    "AisaFM亚洲粤语台",
     "Alxa Chinese Radio",
     "Alxa Mongolian Radio",
     "AsiaFM 亚洲热歌台【2023.10.17】",
@@ -21,14 +22,11 @@
     "BRTV北京文艺广播",
     "BRTV北京新闻广播",
     "BRTV北京音乐广播",
-    "BTV文艺伴音",
-    "BTV科教伴音",
     "Big B Radio - Cpop",
     "Big B Radio亚洲音乐台",
     "CCTV1",
     "CNR-1 中国之声",
     "CNR-1 中国之声",
-    "CNR-15 中国交通广播",
     "CRI劲曲调频 HIT FM（成都）",
     "Chinese Classical Music (Mp3 stream)",
     "Chinese Music World",
@@ -53,6 +51,8 @@
     "Shanghai FM 101 上海动感101",
     "Tiktok网络电台-英语频道",
     "V家电台·Vocaloid Radio",
-    "house remix set2023"
+    "house remix set2023",
+    "一个个人私用的歌单",
+    "三亚天涯之声"
   ]
 }

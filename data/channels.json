@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T18:48:06+0000",
+  "updated": "2026-11-08T11:20:37+0000",
   "groups": {
     "AI Music": [
       {
@@ -9,11 +9,6 @@
       }
     ],
     "China - Music": [
-      {
-        "name": "AisaFM亚洲粤语台",
-        "url": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts",
-        "source": "alondrilich:cn"
-      },
       {
         "name": "Anison动漫音乐台",
         "url": "http://pool.anison.fm:9000/AniSonFM(320)?",
@@ -30,8 +25,18 @@
         "source": "alondrilich:cn"
       },
       {
+        "name": "BTV文艺伴音",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio",
+        "source": "alondrilich:cn"
+      },
+      {
         "name": "BTV生活伴音",
         "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio",
+        "source": "alondrilich:cn"
+      },
+      {
+        "name": "BTV科教伴音",
+        "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio",
         "source": "alondrilich:cn"
       },
       {
@@ -151,7 +156,7 @@
       },
       {
         "name": "CNR-1 中国之声",
-        "url": "http://zbbf2.ahbztv.com/live/4f3.m3u8",
+        "url": "http://ngcdn002.cnr.cn/live/zgzs/index.m3u8",
         "source": "alondrilich:cn"
       },
       {
@@ -162,6 +167,11 @@
       {
         "name": "CNR-10 老年之声",
         "url": "http://satellitepull.cnr.cn/live/wxlnzs/playlist.m3u8?wsSession=b560e2b8d5c24aef0be2a5c7-174709253203252&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6",
+        "source": "alondrilich:cn"
+      },
+      {
+        "name": "CNR-15 中国交通广播",
+        "url": "https://ngcdn002.cnr.cn/live/gsgljtgb/index.m3u8",
         "source": "alondrilich:cn"
       },
       {
@@ -370,6 +380,16 @@
         "source": "alondrilich:cn"
       },
       {
+        "name": "天籁之音 - 国风",
+        "url": "http://play-radio-stream3.hndt.com/now/UzPxbRaT/chunklist.m3u8",
+        "source": "alondrilich:cn"
+      },
+      {
+        "name": "天籁之音 - 经典正流行",
+        "url": "http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8",
+        "source": "alondrilich:cn"
+      },
+      {
         "name": "安徽卫视伴音",
         "url": "https://piccpndali.v.myalicdn.com/audio/anhui_2.m3u8",
         "source": "alondrilich:cn"
@@ -450,8 +470,8 @@
         "source": "alondrilich:cn"
       },
       {
-        "name": "江苏音乐广播",
-        "url": "http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8?",
+        "name": "江苏新闻广播",
+        "url": "http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8?",
         "source": "alondrilich:cn"
       },
       {
@@ -522,11 +542,6 @@
       {
         "name": "浙江城市之声",
         "url": "http://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8",
-        "source": "alondrilich:cn"
-      },
-      {
-        "name": "浙江新闻频道",
-        "url": "http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8",
         "source": "alondrilich:cn"
       },
       {
@@ -643,14 +658,14 @@
         "name": "美国中文电台-旧金山",
         "url": "http://radiokest.serverroom.us:6670/;?type=http&nocache=3295",
         "source": "radio-browser:chinese"
-      },
-      {
-        "name": "美国中文电台-西雅图",
-        "url": "http://kxparadio.serverroom.us:5852/stream.mp3",
-        "source": "radio-browser:chinese"
       }
     ],
     "Vietnam - Music": [
+      {
+        "name": "CHẠM RADIO",
+        "url": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8",
+        "source": "alondrilich:vn"
+      },
       {
         "name": "CRI Tiếng Việt",
         "url": "https://ice5.securenetsystems.net:80/KALI",
@@ -752,6 +767,11 @@
         "source": "changegod:viti"
       },
       {
+        "name": "HUNG YEN RADIO (FM92.7MHz)",
+        "url": "https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8",
+        "source": "changegod:viti"
+      },
+      {
         "name": "MEKONG FM90",
         "url": "https://play.vovgiaothong.vn/live/mekong/playlist.m3u8",
         "source": "changegod:viti"
@@ -769,11 +789,6 @@
       {
         "name": "Scientific Sounds Asia",
         "url": "http://carol.epichosts.co.uk:8270/live.mp3",
-        "source": "changegod:viti"
-      },
-      {
-        "name": "THAI NGUYEN (FM106.5MHz)",
-        "url": "https://radio.thainguyentv.vn/hls/livestream.m3u8",
         "source": "changegod:viti"
       },
       {
@@ -919,13 +934,13 @@
         "source": "changegod:viti"
       },
       {
-        "name": "ITV Sport HD",
-        "url": "https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8",
+        "name": "HYTV",
+        "url": "https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8",
         "source": "changegod:viti"
       },
       {
-        "name": "India Today",
-        "url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
+        "name": "ITV Sport HD",
+        "url": "https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8",
         "source": "changegod:viti"
       },
       {
@@ -1019,11 +1034,6 @@
         "source": "changegod:viti"
       },
       {
-        "name": "SONY SPORTS 2",
-        "url": "http://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8",
-        "source": "changegod:viti"
-      },
-      {
         "name": "SPOTV",
         "url": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/848x480_1205600/chunklist.m3u8",
         "source": "changegod:viti"
@@ -1074,8 +1084,13 @@
         "source": "changegod:viti"
       },
       {
-        "name": "TTV",
-        "url": "https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8",
+        "name": "TRT1",
+        "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+        "source": "changegod:viti"
+      },
+      {
+        "name": "TRT2",
+        "url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
         "source": "changegod:viti"
       },
       {
@@ -1199,11 +1214,6 @@
         "source": "iptv-org:vn-tv"
       },
       {
-        "name": "SCTV12 (720p)",
-        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8",
-        "source": "iptv-org:vn-tv"
-      },
-      {
         "name": "SCTV13 (720p)",
         "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8",
         "source": "iptv-org:vn-tv"
@@ -1211,6 +1221,11 @@
       {
         "name": "SCTV14 (720p)",
         "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8",
+        "source": "iptv-org:vn-tv"
+      },
+      {
+        "name": "SCTV16 (720p)",
+        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8",
         "source": "iptv-org:vn-tv"
       },
       {
@@ -1224,11 +1239,6 @@
         "source": "iptv-org:vn-tv"
       },
       {
-        "name": "SCTV2 SD (720p)",
-        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8",
-        "source": "iptv-org:vn-tv"
-      },
-      {
         "name": "SCTV20 (720p)",
         "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8",
         "source": "iptv-org:vn-tv"
@@ -1236,6 +1246,11 @@
       {
         "name": "SCTV3 (720p)",
         "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8",
+        "source": "iptv-org:vn-tv"
+      },
+      {
+        "name": "SCTV4 (720p)",
+        "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8",
         "source": "iptv-org:vn-tv"
       },
       {
@@ -1256,6 +1271,11 @@
       {
         "name": "TVB Vietnam (1080p)",
         "url": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8",
+        "source": "iptv-org:vn-tv"
+      },
+      {
+        "name": "Tay Ninh TV (720p)",
+        "url": "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8",
         "source": "iptv-org:vn-tv"
       },
       {
@@ -1281,6 +1301,11 @@
       {
         "name": "VBS TV (480p) [Not 24/7]",
         "url": "https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8",
+        "source": "iptv-org:vn-tv"
+      },
+      {
+        "name": "VTV2 HD (1080p)",
+        "url": "http://125hvt.ddns.net:21585/vtv2/playlist.m3u8",
         "source": "iptv-org:vn-tv"
       },
       {
